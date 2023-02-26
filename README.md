@@ -1,4 +1,4 @@
-
+<!-- 
 [![Linkedin Badge](https://img.shields.io/badge/Sametkaya-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/samet-kaya-736604170/)
 ![Instagram Badge](https://img.shields.io/badge/kaya67380@gmail.com-follow%20on%20Gmail-blue?style=for-the-badge&logo=gmail)
 
@@ -69,4 +69,4 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 
 ## Further help
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page. -->
